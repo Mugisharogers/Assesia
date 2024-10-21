@@ -1,0 +1,6 @@
+C:\Users\MUGISHA ROGERS\Desktop\Progect TOUR\TourApp\TourApp\bin\TourApp.dll.config
+C:\Users\MUGISHA ROGERS\Desktop\Progect TOUR\TourApp\TourApp\bin\TourApp.dll
+C:\Users\MUGISHA ROGERS\Desktop\Progect TOUR\TourApp\TourApp\bin\TourApp.pdb
+C:\Users\MUGISHA ROGERS\Desktop\Progect TOUR\TourApp\TourApp\obj\Debug\TourApp.csprojResolveAssemblyReference.cache
+C:\Users\MUGISHA ROGERS\Desktop\Progect TOUR\TourApp\TourApp\obj\Debug\TourApp.dll
+C:\Users\MUGISHA ROGERS\Desktop\Progect TOUR\TourApp\TourApp\obj\Debug\TourApp.pdb
